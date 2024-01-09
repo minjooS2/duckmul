@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/duckmul/static/css/main.d6a1d36e.css",
-    "main.js": "/duckmul/static/js/main.d45cead7.js",
+    "main.css": "/duckmul/static/css/main.3dc3a9c7.css",
+    "main.js": "/duckmul/static/js/main.f32d5e23.js",
     "static/js/787.5ea106ce.chunk.js": "/duckmul/static/js/787.5ea106ce.chunk.js",
     "static/media/chiikawa5.jpg": "/duckmul/static/media/chiikawa5.09fb51812f18930ab9d3.jpg",
     "static/media/meow.png": "/duckmul/static/media/meow.7d035161cb8bb5afab97.png",
@@ -34,32 +34,24 @@
     "static/media/chiikawa2.jpeg": "/duckmul/static/media/chiikawa2.6ea065269bdc2f6adea1.jpeg",
     "static/media/kitty4.jpg": "/duckmul/static/media/kitty4.247c6c7e77db89500e91.jpg",
     "static/media/ansta6.jpg": "/duckmul/static/media/ansta6.19300bff9efaa221b249.jpg",
-    "static/media/naruto.jpg": "/duckmul/static/media/naruto.879d37998fd8ab7bc575.jpg",
-    "static/media/oshi.jpg": "/duckmul/static/media/oshi.8b02bf8d118a28dc26fa.jpg",
     "static/media/duckggu.png": "/duckmul/static/media/duckggu.8a8db29f864a3cd004f2.png",
     "static/media/likeProduct2.jpg": "/duckmul/static/media/likeProduct2.1f787123bc185bb0857a.jpg",
-    "static/media/dangan.jpg": "/duckmul/static/media/dangan.93dc2308b09838e09242.jpg",
     "static/media/kitty.jpg": "/duckmul/static/media/kitty.d5a029d26b7c9d07c85a.jpg",
     "static/media/chiikawa6.jpg": "/duckmul/static/media/chiikawa6.1e143d21b849ae854aa7.jpg",
     "static/media/likeProduct3.jpg": "/duckmul/static/media/likeProduct3.1f03f77f26aed570b03e.jpg",
     "static/media/chiikawa8.jpg": "/duckmul/static/media/chiikawa8.28f1d17577129656aaac.jpg",
     "static/media/meow3.jpg": "/duckmul/static/media/meow3.3cbd5c4641c5f28dc4a5.jpg",
-    "static/media/i7.jpg": "/duckmul/static/media/i7.cb8044aae162cb0120bf.jpg",
-    "static/media/kintama.jpg": "/duckmul/static/media/kintama.803c4b3c7029ba2702ec.jpg",
     "static/media/chiikawa7.jpg": "/duckmul/static/media/chiikawa7.ecc713ba8680430a9a95.jpg",
-    "static/media/today.jpg": "/duckmul/static/media/today.2b2671178dd7daf10a63.jpg",
-    "static/media/skip.jpg": "/duckmul/static/media/skip.33ebfcb9cc5ae914be09.jpg",
     "static/media/kitty2.jpg": "/duckmul/static/media/kitty2.4aea80741f56785eab97.jpg",
     "static/media/kitty6.jpg": "/duckmul/static/media/kitty6.33666baa5bfdfabb8123.jpg",
-    "static/media/animalcrossing.jpg": "/duckmul/static/media/animalcrossing.96d2ba1d8bff4bc5efa4.jpg",
     "static/media/kitty5.jpg": "/duckmul/static/media/kitty5.551ea5948ef50db2acae.jpg",
     "index.html": "/duckmul/index.html",
-    "main.d6a1d36e.css.map": "/duckmul/static/css/main.d6a1d36e.css.map",
-    "main.d45cead7.js.map": "/duckmul/static/js/main.d45cead7.js.map",
+    "main.3dc3a9c7.css.map": "/duckmul/static/css/main.3dc3a9c7.css.map",
+    "main.f32d5e23.js.map": "/duckmul/static/js/main.f32d5e23.js.map",
     "787.5ea106ce.chunk.js.map": "/duckmul/static/js/787.5ea106ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6a1d36e.css",
-    "static/js/main.d45cead7.js"
+    "static/css/main.3dc3a9c7.css",
+    "static/js/main.f32d5e23.js"
   ]
 }
